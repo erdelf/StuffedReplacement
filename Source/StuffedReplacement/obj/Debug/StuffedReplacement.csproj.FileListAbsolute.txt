@@ -1,0 +1,5 @@
+C:\Games\Steam\steamapps\common\RimWorld\Mods\StuffedReplacement\Assemblies\StuffedReplacement.dll
+C:\Games\Steam\steamapps\common\RimWorld\Mods\StuffedReplacement\Source\StuffedReplacement\obj\Debug\StuffedReplacement.csprojResolveAssemblyReference.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\StuffedReplacement\Source\StuffedReplacement\obj\Debug\StuffedReplacement.csproj.CoreCompileInputs.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\StuffedReplacement\Source\StuffedReplacement\obj\Debug\StuffedReplacement.csproj.CopyComplete
+C:\Games\Steam\steamapps\common\RimWorld\Mods\StuffedReplacement\Source\StuffedReplacement\obj\Debug\StuffedReplacement.dll
